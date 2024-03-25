@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Who Wants to be a Millionaire</string>
+    <string name="gameinstructions">
+        \n1. Start the game.\n
+        \n2. Choose the correct answer. \n
+        \n3. Once answer is confirmed, it cannot change. \n
+        \n4. Player can claim winning amount at any level by clicking prize money. \n
+        \n5. Correct answer will turn to green and wrong answers will turn to orange.\n
+    </string>
+    <string name="Proceed">proceed</string>
+    <string name="exit_toast_msg">You have exited the game, prize money lost.</string>
+    <string name="are_you_sure">\nIs that your final answer?\n\nLast chance to change your answer</string>
+    <string name="exit_game_title">Exit Game?</string>
+    <string name="confirmedAlready">Answer already confirmed. Cannot chance answer. \nPlease proceed to next question.</string>
+    <string name="confirmed">Answer confirmed, \nPlease proceed. </string>
+    <string name="confirmed_wrong">Wrong answer confirmed, \nPlease proceed. </string>
+    <string name="q1">What sort of animal is Walt Disney Dumbo?</string>
+    <string name="q1a1">A. Elephant</string>
+    <string name="q1a2">B. Deer</string>
+    <string name="q1a3">C. Rabbit</string>
+    <string name="q1a4">D. Donkey</string>
+    <string name="q2">What was the name of the Spanish waiter in the TV sitcom "Fawlty Towers"? </string>
+    <string name="q2a1">A. Pedro</string>
+    <string name="q2a2">B. Alfonso</string>
+    <string name="q2a3">C. Manuel</string>
+    <string name="q2a4">D. Javier</string>
+    <string name="q3">Which battles took place between the Royal Houses of York and Lancaster? </string>
+    <string name="q3a1">A. Warss of the Roses</string>
+    <string name="q3a2">B. English Civil War</string>
+    <string name="q3a3">C. Hundred Years War</string>
+    <string name="q3a4">D. Thirty Years War</string>
+    <string name="q4">Which former Beatle narrated the TV adventures of Thomas the Tank Engine?</string>
+    <string name="q4a1">A.John Lennon</string>
+    <string name="q4a2">B.Paul McCartney</string>
+    <string name="q4a3">C.George Harrison</string>
+    <string name="q4a4">D. Ringo Starr</string>
+    <string name="q5">Queen Anne was the daughter of which English Monarch? </string>
+    <string name="q5a1">A. Henry VIII</string>
+    <string name="q5a2">B. Victoria</string>
+    <string name="q5a3">C. James II</string>
+    <string name="q5a4">D.William I </string>
+    <string name="q6">Who composed "Rhapsody in Blue"? </string>
+    <string name="q6a1">A. George Gershwin</string>
+    <string name="q6a2">B. Irving Berlin</string>
+    <string name="q6a3">C. Aaron Copland</string>
+    <string name="q6a4">D. Cole Porter</string>
+    <string name="q7">What is the Celsius equivalent of 77 degrees Fahrenheit?</string>
+    <string name="q7a1">A. 15</string>
+    <string name="q7a2">B. 20</string>
+    <string name="q7a3">C. 25</string>
+    <string name="q7a4">D. 30</string>
+    <string name="q8">What are Suffolk Punch and Hackney?</string>
+    <string name="q8a1">A. Horse</string>
+    <string name="q8a2">B. Carriage</string>
+    <string name="q8a3">C. Wrestling style</string>
+    <string name="q8a4">D. Cocktail</string>
+    <string name="q9"> Which Shakespeare play features the line "Neither a borrower nor a lender be"? </string>
+    <string name="q9a1">A. Macbeth</string>
+    <string name="q9a2">B. Hamlet</string>
+    <string name="q9a3">C. Othello</string>
+    <string name="q9a4">D. The Merchant of Venice</string>
+    <string name="q10">Which is the largest city in the USAs largest state by area?</string>
+    <string name="q10a1">A. Anchorage</string>
+    <string name="q10a2">B. NewYork</string>
+    <string name="q10a3">C. NewJersey</string>
+    <string name="q10a4">D. Dallas</string>
+    <string name="money_1">$ 0</string>
+    <string name="money_2">$ 1000</string>
+    <string name="money_3">$ 2000</string>
+    <string name="money_4">$ 7500</string>
+    <string name="money_5">$ 15000</string>
+    <string name="money_6">$ 30000</string>
+    <string name="money_7">$ 50000</string>
+    <string name="money_8">$ 100000</string>
+    <string name="money_9">$ 500000</string>
+    <string name="money_10">$ 1000000</string>
+    <string name="you_won_the_">\nBetter luck next time!</string>
+    <string name="you_won_money">You have won $0</string>
+    <string name="claim_your_money">\n\nDo not want to continue?\n\nClick on prize money and claim it.</string>
+
+</resources>
+
